@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0c6c74e-6730-4955-bc00-231f3198cfd3": {
+      "ProjectGuid": "a0c6c74e-6730-4955-bc00-231f3198cfd3",
+      "DisplayName": "Milestone_3",
+      "ColorIndex": 0
+    },
+    "21eb57ee-8f9b-4b86-9ae3-c119bc667c6e": {
+      "ProjectGuid": "21eb57ee-8f9b-4b86-9ae3-c119bc667c6e",
+      "DisplayName": "Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

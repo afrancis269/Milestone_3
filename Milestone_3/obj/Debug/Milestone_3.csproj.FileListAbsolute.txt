@@ -1,0 +1,8 @@
+F:\Coding\web_19.08.2021\CST150\Milestone_3\Milestone_3\Milestone_3\bin\Debug\Milestone_3.exe.config
+F:\Coding\web_19.08.2021\CST150\Milestone_3\Milestone_3\Milestone_3\bin\Debug\Milestone_3.exe
+F:\Coding\web_19.08.2021\CST150\Milestone_3\Milestone_3\Milestone_3\bin\Debug\Milestone_3.pdb
+F:\Coding\web_19.08.2021\CST150\Milestone_3\Milestone_3\Milestone_3\obj\Debug\Milestone_3.csproj.AssemblyReference.cache
+F:\Coding\web_19.08.2021\CST150\Milestone_3\Milestone_3\Milestone_3\obj\Debug\Milestone_3.csproj.SuggestedBindingRedirects.cache
+F:\Coding\web_19.08.2021\CST150\Milestone_3\Milestone_3\Milestone_3\obj\Debug\Milestone_3.csproj.CoreCompileInputs.cache
+F:\Coding\web_19.08.2021\CST150\Milestone_3\Milestone_3\Milestone_3\obj\Debug\Milestone_3.exe
+F:\Coding\web_19.08.2021\CST150\Milestone_3\Milestone_3\Milestone_3\obj\Debug\Milestone_3.pdb
